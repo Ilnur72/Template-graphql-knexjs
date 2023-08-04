@@ -1,1 +1,1 @@
-# Template-restpai-knexjs
+# Template-graphql-knexjs
